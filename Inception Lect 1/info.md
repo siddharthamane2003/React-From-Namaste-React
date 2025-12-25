@@ -1,3 +1,5 @@
+React => Js library. Develpoed By Facebook. Follows Componet based Architecture.
+
 1. CDN : Content Deleviry Network
     these websites that react libary are hosted.
     we are just featch the react  push into the projects using the cdn links
